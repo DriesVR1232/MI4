@@ -27,7 +27,7 @@
 * Boek kan toegevoegd worden aan favorieten zodat deze makkelijk terug te vinden zijn
 * Boek kan verwijderd worden uit favorieten
 * Als en boek al in je favorieten staat wordt hier een melding van gegeven
-## Week15 15h
+## Week15 25h
 * Firebase email verificatie mail, wachtwoord vergeten mail
 * Comment system toevoegen met opties comment toevoegen, comments tonen
 * Als boek verwijderd wordt worden comments mee verwijderd 
